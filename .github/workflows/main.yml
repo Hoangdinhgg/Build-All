@@ -1,7 +1,6 @@
 name: Setup Globed Source
 
 on:
-  push:
   workflow_dispatch:
 
 permissions:
